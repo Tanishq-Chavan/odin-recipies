@@ -1,2 +1,2 @@
 "Project: Recipies"
-I will be demonstrating my html skills
+This page is made using html
